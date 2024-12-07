@@ -22,7 +22,7 @@ Contents:
    
 
    
-.. automodule:: src.lumache
+.. automodule:: lumache
    :members:
    :undoc-members:
    :show-inheritance:
