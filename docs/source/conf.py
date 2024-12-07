@@ -1,7 +1,8 @@
 import sys
 from pathlib import Path
-import os
-sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+
+# 프로젝트 루트 디렉터리 설정
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
 # Configuration file for the Sphinx documentation builder.
 #
