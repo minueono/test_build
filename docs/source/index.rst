@@ -15,14 +15,14 @@ Contents:
    :maxdepth: 2
    :caption: Game Descriptions:
 
-   roulette_game
+
    guess_the_person_game
    pronunciation_game
    group_photo_analyzer_game
-   receipt_calculator
+   
 
    
-.. automodule:: Alcohol_Total_Game.total_game
+.. automodule:: src.lumache
    :members:
    :undoc-members:
    :show-inheritance:
