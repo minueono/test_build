@@ -1,10 +1,7 @@
 import sys
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 import os
-import sys
-sys.path.insert(0, os.path.abspath(r'C:\Users\82103\Desktop\teamproject-master\docs\source'))  # 경로를 프로젝트 루트로 설정
-
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 # Configuration file for the Sphinx documentation builder.
 #
