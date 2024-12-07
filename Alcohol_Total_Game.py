@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Alcohol_Total_Game - A Library for Drinking Games
 """
 
 __version__ = "0.1.0"
