@@ -1,19 +1,15 @@
-Welcome to Alcohol_Total_Game documentation!
-============================================
+oss24 documentation
+===================
 
-hi
+Add your content using ``reStructuredText`` syntax. See the
+`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+documentation for details.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
+   
    usage
-   api
+
